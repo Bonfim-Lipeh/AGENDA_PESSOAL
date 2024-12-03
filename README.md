@@ -35,7 +35,7 @@ Framework: Java Swing
 Banco de dados: MySQL
 IDE: Eclipse IDE
 
-### 📩 Instalação
+## 📩 Instalação
 Clone o repositório:
 Bash
 git clone https://[seu-repositorio]/agenda-contatos.git
@@ -45,6 +45,9 @@ Instale as dependências:*
 Configure o banco de dados:![image](https://github.com/user-attachments/assets/5305249a-f9ab-409b-a961-313adada9df0)
 
 Execute a aplicação: Compile e execute normalmente em uma IDE.
+
+![image](https://github.com/user-attachments/assets/63af6649-7309-4fc0-9c3a-880d3e6bb678)
+
 
 ## 🤝 Contribuições
 Contribuições são bem-vindas! Para contribuir, por favor, siga estas etapas:
