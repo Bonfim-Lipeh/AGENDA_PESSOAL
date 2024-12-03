@@ -64,5 +64,6 @@ Licença
 [Especificar a licença utilizada, ex: MIT, GPL]
 
 Links Úteis
-Documentação: file:///C:/Users/felip/eclipse-workspace/AgendaPessoal/doc/com/projeto/agenda/view/package-summary.html#related-package-summary
+Documentação: 
+file:///C:/Users/felip/eclipse-workspace/AgendaPessoal/doc/com/projeto/agenda/view/package-summary.html#related-package-summary
 Host: http://localhost/phpmyadmin/index.php?route=/sql&db=agenda&table=contatos&pos=0
